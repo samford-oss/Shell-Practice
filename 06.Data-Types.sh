@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 Number=100
 Number=200
