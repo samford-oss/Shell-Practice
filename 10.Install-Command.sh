@@ -29,3 +29,6 @@ fi
 else
     echo "MySql is ALREADY INSTALLED Nothing to do"
 fi
+
+mysql --version
+fi
