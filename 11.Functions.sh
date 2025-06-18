@@ -36,7 +36,7 @@ then
     dnf install mysql -y
     VALIDATE $? "mysql"
 else
-    echo "mysql is already installed....Nothing to do"
+    echo "mysql  is already installed....Nothing to do"
 fi
 
 #Now lets install python3:
